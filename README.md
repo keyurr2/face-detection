@@ -1,4 +1,4 @@
-Face Detection: Face detection implementation with dlib using HOG + SVM and CNN.
+Face Detection: Face detection implementation with dlib using HOG + SVM and CNN + Deep learning.
 ==================
 
 I was just looking for different face detection methods and found a useful library for it called : dlib python bindings
@@ -12,6 +12,7 @@ It's just a bunch of python scripts. Together they:
 1. Detect multiple faces using HOG + SVM method in real time as well as from image 
 2. Detect multiple faces using CNN method in real time as well as from image
 3. Result comparison
+4. Face detection with deep learning models supported in CV2
 
 The comparison of two different face detectors are as follows :
 
